@@ -1,5 +1,4 @@
 # PaperPunish
----
 Paper Punish is a simple Punish plugin to ban players from your server.
 ---
 ##Disclaimer
