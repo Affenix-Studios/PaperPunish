@@ -1,0 +1,13 @@
+name: PaperPunish
+version: '${version}'
+
+main: de.mcaffe13.paperPunish.PaperPunish
+api-version: '1.21.11'
+load: STARTUP
+
+authors: [de.mcaffe13]
+
+commands:
+  punish:
+    description: Use this command to punish a player
+    usage: /punish <player> <reason>
