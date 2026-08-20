@@ -8,7 +8,7 @@ Paper Punish is a simple Punish plugin to ban players from your server.
  - [ ] The basic /punish command
  - [ ] Configurable ban reasons that you can edit in your config.yml with custom time.
  - [ ] alt account checker
- - [ ] Anti VPN 
+ - [ ] Anti VPN (WIP)
  - [ ] Multi support Languages
  - [ ] Database 
  - [ ] And More
