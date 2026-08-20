@@ -11,3 +11,4 @@ commands:
   punish:
     description: Use this command to punish a player
     usage: /punish <player> <reason>
+    default: op
