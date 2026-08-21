@@ -1,6 +1,7 @@
 # User-specific stuff
 .idea/
-
+Server/
+target/
 *.iml
 *.ipr
 *.iws
@@ -95,12 +96,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-target/
-
-pom.xml.tag
-pom.xml.releaseBackup
-pom.xml.versionsBackup
-pom.xml.next
 
 release.properties
 dependency-reduced-pom.xml
