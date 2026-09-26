@@ -7,6 +7,8 @@ public final class PaperPunish extends JavaPlugin {
     @Override
     public void onEnable() {
         getCommand("punish").setExecutor(new PunishCommand());
+        getCommand("smite").setExecutor(new SmiteCommand());
+        getCommand("unban").setExecutor(new SmiteCommand());
         getServer().getPluginManager().registerEvents(new VpnChecker(), this);
         getLogger().info("PaperPunish has been enabled!");
 

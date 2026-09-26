@@ -12,3 +12,11 @@ commands:
     description: Use this command to punish a player
     usage: /punish <player> <reason>
     default: op
+  smite:
+    description: Use this command to send a Lightning Strike on a Player
+    usage: /smite <player>
+    default: op
+  unban:
+    description: Use this command to unban Players
+    usage: /unban <player>
+    default: op
